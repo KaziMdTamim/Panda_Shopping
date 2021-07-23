@@ -1,0 +1,12 @@
+.panda-bg-danger{
+    background-color: #FEEAE9;
+}
+.panda-backpacks{
+    background-color: dodgerblue;
+}
+.panda-btn-warning{
+    background-color: lightcoral;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
